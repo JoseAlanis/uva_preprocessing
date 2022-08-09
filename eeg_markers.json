@@ -1,0 +1,28 @@
+{
+    "dpx": {
+      "markers": {
+        "start_record": 127,
+        "pause_record": 245,
+
+        "cue_a": 70,
+        "cue_b1": 71,
+        "cue_b2": 72,
+        "cue_b3": 73,
+        "cue_b4": 74,
+        "cue_b5": 75,
+
+        "probe_x": 76,
+        "probe_y1": 77,
+        "probe_y2": 78,
+        "probe_y3": 79,
+        "probe_y4": 80,
+        "probe_y5": 81,
+
+        "correct_target_button": 13,
+        "correct_non_target_button": 12,
+        "incorrect_target_button": 113,
+        "incorrect_non_target_button": 112
+      }
+    }
+}
+

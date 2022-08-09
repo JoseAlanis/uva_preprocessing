@@ -1,0 +1,8 @@
+{
+  "root": "/mnt/d/data/dpx_baseline/",
+  "sourcedata": "/mnt/d/data/dpx_baseline/sourcedata",
+  "bidsdata": "/mnt/d/data/dpx_baseline/bidsdata",
+  "derivatives": "/mnt/d/data/dpx_baseline/bidsdata/derivatives",
+  "relative": true,
+  "overwrite": true
+}
